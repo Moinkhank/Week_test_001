@@ -1,0 +1,13 @@
+#main{
+    padding: 27px;
+    background-color: black;
+    width: 100%;
+    display: flex;
+}
+a {
+    color: white;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-right: 50px;
+    text-decoration: none;
+}
